@@ -19,8 +19,10 @@
   1. Since my GitHub username is gitname and the name of my GitHub repository is react-gh-pages, I added the following property:
     
     //...
-    "homepage": "http://gitname.github.io/react-gh-pages"
-  
+    "name": "Abc..",
+    "homepage": "http://gitname.github.io/Abc",
+    "version": "0.1.0...",
+      
   In the existing scripts property, add a predeploy property and a deploy property, each having the values shown below:
   
     "scripts": {
