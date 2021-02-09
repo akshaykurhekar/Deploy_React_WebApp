@@ -8,6 +8,8 @@
     
     $ cd react-gh-pages
     $ npm install gh-pages --save-dev
+                 OR
+    $ yarn add gh-pages 
 
 ## Third Step
   The commands shown in the following steps can all be issued from within the app's folder.
@@ -42,6 +44,8 @@ It will also make it so git knows where you want it to push your source code (i.
 Generate a production build of your app, and deploy it to GitHub Pages. (2 minutes)
 
     $ npm run deploy
+        OR
+    $ yarn deploy    
 
 That's it! Your app is now accessible at the URL you specified in step 4.
 In my case, my app is now accessible at: https://gitname.github.io/react-gh-pages/
