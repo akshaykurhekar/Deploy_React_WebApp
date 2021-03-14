@@ -64,8 +64,14 @@ Optionally, commit your source code to the "master" branch and push your commit 
    
 ## Last Step
  
- check link of your hosted repo on your terminal / cmd 
+  ###  check link of your hosted repo on your terminal / cmd 
+ 
                       OR
-   github -> repo_name -> setting ->          
+                      
+  ###   github -> repo_name -> settings -> GitHub Pages         
+  
+  you will get hosted link there.. 
+  
+  # Happy Hosting ✨
  
    
