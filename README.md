@@ -19,8 +19,8 @@
   1. Since my GitHub username is gitname and the name of my GitHub repository is react-gh-pages, I added the following property:
     
     //...
-    "name": "Abc..",
-    "homepage": "http://gitname.github.io/Abc",
+    "name": "Project Name",
+    "homepage": "http://User-gitname.github.io/Repository-Name",
     "version": "0.1.0...",
       
   In the existing scripts property, add a predeploy property and a deploy property, each having the values shown below:
@@ -61,3 +61,11 @@ Optionally, commit your source code to the "master" branch and push your commit 
    I recommend exploring the GitHub repository once again at this point.
    When I did that, I noticed that a master branch now existed, and it contained the app's source code.
    So, the master branch held the source code, and the gh-pages branch held the built app code.
+   
+## Last Step
+ 
+ check link of your hosted repo on your terminal / cmd 
+                      OR
+   github -> repo_name -> setting ->          
+ 
+   
